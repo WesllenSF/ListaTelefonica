@@ -20,7 +20,7 @@ export default function Contatos({nome, telefone}:propsContato){
 
 const styles = StyleSheet.create({
   cartao: {
-    marginTop: 20,
+    marginTop: 15,
     justifyContent: 'center',
     borderRadius: 10,
     backgroundColor: 'aqua',

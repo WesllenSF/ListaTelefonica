@@ -49,6 +49,7 @@ const styles = StyleSheet.create({
     },
 
   lista: {
+    paddingBottom:20,
     height: '80%',
     borderRadius:'10px',
   },
